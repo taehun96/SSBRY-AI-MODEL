@@ -91,7 +91,7 @@ training_params = {
 - 3단계 모델 훈련
 - 4단계 테스트 및 평가(저장된 이미지 분석)
 - runs/detect/waste_classfification/에서 학습 결과 확인
-- best_waste_model.pt가 생성되어 있는지 확인인
+- best_waste_model.pt가 생성되어 있는지 확인
 
 ### 📈 주요 특징
 **🎯 스마트 객체 탐지**
