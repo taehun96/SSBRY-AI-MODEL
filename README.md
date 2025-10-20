@@ -51,7 +51,6 @@ training_params = {
     'epochs': 30,            # 학습 횟수
     'imgsz': 416,           # 입력 이미지 크기
     'batch': 4,             # 배치 크기 (메모리 효율)
-    'patience': 10,         # Early stopping
     'device': 'cpu'         # CPU 학습 (GPU 미사용시)
 }
 ```
